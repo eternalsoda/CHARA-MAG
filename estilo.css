@@ -61,10 +61,10 @@ img{
 	border-bottom-right-radius: 3px;
 }
 #portada{
-	background: url('../img/Chara - Zine.png'); /* Imagen portada*/
+	background: url('../CHARA-MAG/img/Chara - Zine.png'); /* Imagen portada*/
 }
 #portada-back{
-	background: url('../img/Contra.png'); /* Imagen contra portada*/
+	background: url('../CHARA-MAG/img/Contra.png'); /* Imagen contra portada*/
 }
 #portada, #portada-back{
 	background-size: 100% 100%;
